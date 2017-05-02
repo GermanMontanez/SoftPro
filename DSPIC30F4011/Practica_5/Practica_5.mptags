@@ -1,0 +1,238 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+ABORTAR::0x8	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xmodem.h	22;"	d	line:22
+ASCII_ACK::6	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xmodem.h	28;"	d	line:28
+ASCII_CAN::24	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xmodem.h	30;"	d	line:30
+ASCII_EOT::4	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xmodem.h	27;"	d	line:27
+ASCII_NAK::21	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xmodem.h	29;"	d	line:29
+ASCII_SOH::1	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xmodem.h	26;"	d	line:26
+Atender_uart	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\main.c	61;"	f	line:61	signature:(char atienda)
+Atienda_timer	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\main.c	44;"	f	line:44	signature:(char atienda)
+BAUD_RATE::0X67	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\main.c	14;"	d	line:14	file:
+DISPLAY_H	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Display.h	3;"	d	line:3
+Display_Dato	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Display.h	13;"	t	line:13
+Ds_Control	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Display.h	14;"	t	line:14
+Ds_Control	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Display.h	16;"	s	line:16
+Ds_Conversion	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Display.h	44;"	p	line:44	signature:(Ds_Control *cdp)
+Ds_Conversion	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Ds_Conversion.c	5;"	f	line:5	signature:(Ds_Control *cdp)
+Ds_Defina_control	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Display.h	37;"	p	line:37	signature:(Ds_Control *cdp,Display_Dato *dp, Xmodem_Control *cxp, Tm_Num num, Tm_Contador periodo,char num_displays)
+Ds_Defina_control	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Ds_Defina_control.c	4;"	f	line:4	signature:(Ds_Control *cdp,Display_Dato *dp, Xmodem_Control *cxp, Tm_Num num, Tm_Contador periodo,char num_displays)
+Ds_funcion	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Display.h	47;"	p	line:47	signature:(Ds_Control *cdp)
+Ds_funcion	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Ds_funcion.c	5;"	f	line:5	signature:(Ds_Control *cdp)
+ENABLE::0x4	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xmodem.h	23;"	d	line:23
+EOT::0x80	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xmodem.h	21;"	d	line:21
+ERROR_ACK::0X1	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xmodem.h	13;"	d	line:13
+ERROR_NAK::0x2	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xmodem.h	14;"	d	line:14
+FREC_DS::2	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\main.c	31;"	d	line:31	file:
+FREC_INTERMITENTE_MUX::60	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\main.c	38;"	d	line:38	file:
+FREC_MUX::1	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\main.c	36;"	d	line:36	file:
+Init_Timer	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\init_timer.c	3;"	f	line:3	signature:(void)
+Init_Timer	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\main.c	18;"	p	line:18	file:	signature:(void)
+LEER::0X40	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xmodem.h	20;"	d	line:20
+LISTO::0x4	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xmodem.h	15;"	d	line:15
+MAXIMOS_INTENTOS::10	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xmodem.h	8;"	d	line:8
+MAX_PERIODICOS::3	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\main.c	19;"	d	line:19	file:
+MAX_TIMEOUT::2	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\main.c	20;"	d	line:20	file:
+MULTIPLEXACION_H	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Multiplexacion.h	3;"	d	line:3
+Mux_Control	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Multiplexacion.h	11;"	t	line:11
+Mux_Control	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Multiplexacion.h	13;"	s	line:13
+Mux_Defina_control	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Multiplexacion.h	29;"	p	line:29	signature:(Mux_Control *cmp, Tm_Control *ctp, Tm_Num num, Tm_Num num_intermitente,Tm_Contador periodo, Tm_Contador periodo_intermitente,Ds_Control *cdp, unsigned char *tabla)
+Mux_Defina_control	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Mux_Defina_control.c	3;"	f	line:3	signature:(Mux_Control *cmp, Tm_Control *ctp, Tm_Num num, Tm_Num num_intermitente,Tm_Contador periodo, Tm_Contador periodo_intermitente,Ds_Control *cdp, unsigned char *tabla)
+Mux_Enable	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Multiplexacion.h	38;"	p	line:38	signature:(Mux_Control *cmp,char display_activo)
+Mux_Enable	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Mux_Enable.c	9;"	f	line:9	signature:(Mux_Control *cmp,char display_activo)
+Mux_Funcion	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Multiplexacion.h	35;"	p	line:35	signature:(Mux_Control *cmp)
+Mux_Funcion	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Mux_Funcion.c	6;"	f	line:6	signature:(Mux_Control *cmp)
+Mux_Intermitente	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Multiplexacion.h	41;"	p	line:41	signature:(Mux_Control *cmp)
+Mux_Intermitente	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Mux_Intermitente.c	3;"	f	line:3	signature:(Mux_Control *cmp)
+NO::0	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\UART.h	4;"	d	line:4
+NO::0	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\tiempo.h	6;"	d	line:6
+NUM_DAT_INICIAL::0	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xmodem.h	11;"	d	line:11
+NUM_DISPLAYS::0X3u	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\main.c	30;"	d	line:30	file:
+PERIODICO_DS::0	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\main.c	32;"	d	line:32	file:
+PERIODICO_INTERMITENTE_MUX::2	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\main.c	37;"	d	line:37	file:
+PERIODICO_MUX::1	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\main.c	35;"	d	line:35	file:
+PROTOCOLO_XMODEM_ABORTAR_TX::6	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xmodem.h	39;"	d	line:39
+PROTOCOLO_XMODEM_DESCARTAR_DATO::4	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xmodem.h	37;"	d	line:37
+PROTOCOLO_XMODEM_ESPERA_CHECKSUM::7	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xmodem.h	40;"	d	line:40
+PROTOCOLO_XMODEM_ESPERA_CUNO_SEC::3	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xmodem.h	36;"	d	line:36
+PROTOCOLO_XMODEM_ESPERA_PAQ::1	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xmodem.h	34;"	d	line:34
+PROTOCOLO_XMODEM_ESPERA_SEC::2	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xmodem.h	35;"	d	line:35
+PROTOCOLO_XMODEM_INICIO::0	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xmodem.h	33;"	d	line:33
+PROTOCOLO_XMODEM_RECIBIR_DATO::5	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xmodem.h	38;"	d	line:38
+REGISTRO_UART::U2RXREG	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\main.c	13;"	d	line:13	file:
+SI::1	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\UART.h	3;"	d	line:3
+SI::1	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\tiempo.h	5;"	d	line:5
+TIEMPO_H	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\tiempo.h	4;"	d	line:4
+TIMERSTAT::IFS0	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\main.c	21;"	d	line:21	file:
+TIMER_TC::0X80	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\main.c	22;"	d	line:22	file:
+TIPO::128	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\main.c	41;"	d	line:41	file:
+TM_PER_B_ACTIVO::0x01U	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\tiempo.h	19;"	d	line:19
+TM_PER_B_TC::0x02U	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\tiempo.h	20;"	d	line:20
+Tm_Atender_timer	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\tiempo.h	34;"	t	line:34
+Tm_Baje_periodico	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\tiempo.c	91;"	f	line:91	signature:(Tm_Control *ctp, Tm_Num num)
+Tm_Baje_periodico	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\tiempo.h	64;"	p	line:64	signature:(Tm_Control *ctp, Tm_Num num)
+Tm_Contador	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\tiempo.h	12;"	t	line:12
+Tm_Control	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\tiempo.h	44;"	t	line:44
+Tm_Defina_control	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\tiempo.c	7;"	f	line:7	signature:(Tm_Control *ctp, Tm_Periodico *t_periodico, Tm_Num l_periodico, Tm_Timeout *t_timeout, Tm_Num l_timeout, Tm_Atender_timer *atencion)
+Tm_Defina_control	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\tiempo.h	48;"	p	line:48	signature:(Tm_Control *ctp, Tm_Periodico *t_periodico, Tm_Num l_periodico, Tm_Timeout *t_timeout, Tm_Num l_timeout, Tm_Atender_timer *atencion)
+Tm_Hubo_periodico	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\tiempo.c	85;"	f	line:85	signature:(const Tm_Control *ctp, Tm_Num num)
+Tm_Hubo_periodico	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\tiempo.h	61;"	p	line:61	signature:(const Tm_Control *ctp, Tm_Num num)
+Tm_Hubo_timeout	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\tiempo.c	114;"	f	line:114	signature:(const Tm_Control *ctp, Tm_Num num)
+Tm_Hubo_timeout	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\tiempo.h	74;"	p	line:74	signature:(const Tm_Control *ctp, Tm_Num num)
+Tm_Inicie_periodico	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\tiempo.c	74;"	f	line:74	signature:(Tm_Control *ctp, Tm_Num num, Tm_Contador periodo)
+Tm_Inicie_periodico	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\tiempo.h	58;"	p	line:58	signature:(Tm_Control *ctp, Tm_Num num, Tm_Contador periodo)
+Tm_Inicie_timeout	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\tiempo.c	106;"	f	line:106	signature:(Tm_Control *ctp, Tm_Num num, Tm_Contador tiempo)
+Tm_Inicie_timeout	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\tiempo.h	71;"	p	line:71	signature:(Tm_Control *ctp, Tm_Num num, Tm_Contador tiempo)
+Tm_Num	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\tiempo.h	15;"	t	line:15
+Tm_Periodico	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\tiempo.h	26;"	t	line:26
+Tm_Procese_tiempo	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\tiempo.c	40;"	f	line:40	signature:(Tm_Control *ctp, Tm_Periodico *t_periodico, Tm_Num l_periodico)
+Tm_Procese_tiempo	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\tiempo.h	54;"	p	line:54	signature:(Tm_Control *ctp, Tm_Periodico *t_periodico, Tm_Num l_periodico)
+Tm_Termine_periodico	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\tiempo.c	97;"	f	line:97	signature:(Tm_Control *ctp, Tm_Num num)
+Tm_Termine_periodico	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\tiempo.h	67;"	p	line:67	signature:(Tm_Control *ctp, Tm_Num num)
+Tm_Timeout	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\tiempo.h	29;"	t	line:29
+UART_BANDERA::0x100	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\main.c	12;"	d	line:12	file:
+UART_H	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\UART.h	2;"	d	line:2
+UART_STATUS::IFS1	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\main.c	11;"	d	line:11	file:
+UN_MINUTO::2407	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xmodem.h	10;"	d	line:10
+UN_SEGUNDO::240	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xmodem.h	9;"	d	line:9
+Uart_Atender_uart	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\UART.h	12;"	t	line:12
+Uart_Banderas	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\UART.h	8;"	t	line:8
+Uart_Baudrate	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\UART.h	9;"	t	line:9
+Uart_Control	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\UART.h	28;"	t	line:28
+Uart_Dato	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\UART.h	7;"	t	line:7
+Uart_Defina_control	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\UART.h	32;"	p	line:32	signature:(Uart_Control *cup, Uart_Baudrate baudrate,unsigned char selector_uart, Uart_Atender_uart *atienda_uart )
+Uart_Defina_control	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Uart_Defina_control.c	4;"	f	line:4	signature:(Uart_Control *cup, Uart_Baudrate baudrate, unsigned char selector_uart, Uart_Atender_uart *atienda_uart)
+Uart_Escritura_dato	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\UART.h	41;"	p	line:41	signature:(Uart_Control *cup , unsigned char dato )
+Uart_Escritura_dato	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Uart_Escritura_dato.c	4;"	f	line:4	signature:(Uart_Control *cup,unsigned char dato )
+Uart_Estado_dato	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\UART.h	38;"	p	line:38	signature:(Uart_Control *cup)
+Uart_Estado_dato	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Uart_Estado_dato.c	4;"	f	line:4	signature:(Uart_Control *cup)
+Uart_Lectura_dato	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\UART.h	35;"	p	line:35	signature:(Uart_Control *cup )
+Uart_Lectura_dato	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Uart_Lectura_dato.c	3;"	f	line:3	signature:(Uart_Control *cup)
+Uart_Receptor	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\UART.h	18;"	t	line:18
+XMODEM_CHECKSUM::0x20	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xmodem.h	19;"	d	line:19
+XMODEM_H	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xmodem.h	2;"	d	line:2
+XMODEM_SOT::0x10	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xmodem.h	18;"	d	line:18
+XM_TIMEOUT_1_MIN::0	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\main.c	57;"	d	line:57	file:
+XM_TIMEOUT_1_SEG::1	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\main.c	58;"	d	line:58	file:
+Xm_Abortar_tx	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xm_Abortar_tx.c	5;"	f	line:5	signature:(Xmodem_Control *cxp)
+Xm_Abortar_tx	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xmodem.h	90;"	p	line:90	signature:(Xmodem_Control *cxp)
+Xm_Defina_control	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xm_Defina_control.c	3;"	f	line:3	signature:(Xmodem_Control *cxp, Xmodem_Paquete *apuntador_paquete, Tm_Control *ctp,Uart_Control *cup,Tm_Num timeout_1_min, Tm_Num timeout_1_seg, unsigned char *buffer1, unsigned char *buffer2, char tipo)
+Xm_Defina_control	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xmodem.h	75;"	p	line:75	signature:(Xmodem_Control *cxp, Xmodem_Paquete *apuntador_paquete, Tm_Control *ctp,Uart_Control *cup,Tm_Num timeout_1_min, Tm_Num timeout_1_seg,unsigned char *buffer1, unsigned char *buffer2, char tipo)
+Xm_Descartar_dato	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xm_Descartar_dato.c	4;"	f	line:4	signature:(Xmodem_Control *cxp)
+Xm_Descartar_dato	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xmodem.h	84;"	p	line:84	signature:(Xmodem_Control *cxp)
+Xm_Esperar_checksum	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xm_Esperar_checksum.c	3;"	f	line:3	signature:(Xmodem_Control *cxp)
+Xm_Esperar_checksum	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xmodem.h	92;"	p	line:92	signature:(Xmodem_Control *cxp)
+Xm_Esperar_complemento_secuencia	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xm_Esperar_complemento_secuencia.c	3;"	f	line:3	signature:(Xmodem_Control *cxp)
+Xm_Esperar_complemento_secuencia	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xmodem.h	89;"	p	line:89	signature:(Xmodem_Control *cxp)
+Xm_Esperar_paquete	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xm_Esperar_paquete.c	3;"	f	line:3	signature:(Xmodem_Control *cxp)
+Xm_Esperar_paquete	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xmodem.h	87;"	p	line:87	signature:(Xmodem_Control *cxp)
+Xm_Esperar_secuencia	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xm_Esperar_secuencia.c	3;"	f	line:3	signature:(Xmodem_Control *cxp)
+Xm_Esperar_secuencia	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xmodem.h	88;"	p	line:88	signature:(Xmodem_Control *cxp)
+Xm_Inicio_protocolo	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xm_Inicio_protocolo.c	3;"	f	line:3	signature:(Xmodem_Control *cxp)
+Xm_Inicio_protocolo	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xmodem.h	86;"	p	line:86	signature:(Xmodem_Control *cxp)
+Xm_Protocolo_procese	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xm_Protocolo_Procese.c	3;"	f	line:3	signature:(Xmodem_Control *cxp)
+Xm_Protocolo_procese	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xmodem.h	80;"	p	line:80	signature:(Xmodem_Control *cxp)
+Xm_Recibir_dato	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xm_Recibir_dato.c	3;"	f	line:3	signature:(Xmodem_Control *cxp)
+Xm_Recibir_dato	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xmodem.h	83;"	p	line:83	signature:(Xmodem_Control *cxp)
+Xmodem_Control	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xmodem.h	45;"	t	line:45
+Xmodem_Control	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xmodem.h	59;"	s	line:59
+Xmodem_Paquete	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xmodem.h	44;"	t	line:44
+Xmodem_Paquete	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xmodem.h	49;"	s	line:49
+_IC1Interrupt	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\main.c	174;"	f	line:174	signature:(void)
+_IC2Interrupt	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\main.c	187;"	f	line:187	signature:(void)
+apuntador_paquete	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xmodem.h	62;"	m	line:62	struct:Xmodem_Control
+atender_uart	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\UART.h	25;"	m	line:25
+bandera	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\UART.h	17;"	m	line:17
+bandera	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xmodem.h	53;"	m	line:53	struct:Xmodem_Paquete
+bandera_display	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Mux_Funcion.c	11;"	l	line:11	file:
+banderas	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xmodem.h	67;"	m	line:67	struct:Xmodem_Control
+banderas	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\tiempo.h	25;"	m	line:25
+baudrate	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\UART.h	26;"	m	line:26
+blk_num	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xmodem.h	54;"	m	line:54	struct:Xmodem_Paquete
+buffer1	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\main.c	102;"	v	line:102
+buffer2	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\main.c	102;"	v	line:102
+c_blk_num	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xm_Esperar_complemento_secuencia.c	5;"	l	line:5
+cdp	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Multiplexacion.h	16;"	m	line:16	struct:Mux_Control
+checksum	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xmodem.h	55;"	m	line:55	struct:Xmodem_Paquete
+cont_dato	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xmodem.h	56;"	m	line:56	struct:Xmodem_Paquete
+cont_intentos	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xmodem.h	66;"	m	line:66	struct:Xmodem_Control
+contador	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\tiempo.h	23;"	m	line:23
+control_uart	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\main.c	84;"	v	line:84
+controlds	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\main.c	87;"	v	line:87
+controlmux	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\main.c	92;"	v	line:92
+controlxm	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\main.c	100;"	v	line:100
+cp	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\main.c	88;"	v	line:88
+ctp	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Multiplexacion.h	18;"	m	line:18	struct:Mux_Control
+ctp	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xmodem.h	68;"	m	line:68	struct:Xmodem_Control
+cup	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xmodem.h	71;"	m	line:71	struct:Xmodem_Control
+cxp	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Display.h	22;"	m	line:22	struct:Ds_Control
+dato	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\UART.h	16;"	m	line:16
+dato	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xm_Descartar_dato.c	16;"	l	line:16
+dato	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xm_Esperar_paquete.c	5;"	l	line:5
+dato	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xm_Recibir_dato.c	7;"	l	line:7
+dato_buffer	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Ds_Conversion.c	8;"	l	line:8
+dp	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Display.h	19;"	m	line:19	struct:Ds_Control
+dp	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xmodem.h	52;"	m	line:52	struct:Xmodem_Paquete
+estado	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xmodem.h	65;"	m	line:65	struct:Xmodem_Control
+i	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Ds_Conversion.c	13;"	l	line:13
+i	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xm_Esperar_checksum.c	17;"	l	line:17
+init_UART	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\init_UART.c	5;"	f	line:5	signature:(void)
+init_UART	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\main.c	10;"	p	line:10	file:	signature:(void)
+init_interrupcion	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\init_interrupcion.c	4;"	f	line:4
+init_interrupcion	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\main.c	27;"	p	line:27	file:
+intermitente	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Display.h	26;"	m	line:26	struct:Ds_Control
+j	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Ds_Conversion.c	12;"	l	line:12
+main	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\main.c	104;"	f	line:104	signature:(void)
+max_p	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\tiempo.h	40;"	m	line:40
+max_t	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\tiempo.h	42;"	m	line:42
+nd	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Mux_Enable.c	12;"	l	line:12
+num	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Display.h	24;"	m	line:24	struct:Ds_Control
+num	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Multiplexacion.h	19;"	m	line:19	struct:Mux_Control
+num	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\tiempo.c	16;"	l	line:16
+num	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\tiempo.c	45;"	l	line:45
+num_displays	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Display.h	20;"	m	line:20	struct:Ds_Control
+num_intermitente	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Multiplexacion.h	20;"	m	line:20	struct:Mux_Control
+op	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Ds_Conversion.c	18;"	l	line:18
+paq	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xm_Esperar_checksum.c	18;"	l	line:18
+paq_escritura	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xm_Descartar_dato.c	17;"	l	line:17
+paq_escritura	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xm_Esperar_checksum.c	36;"	l	line:36
+paq_escritura	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xm_Esperar_complemento_secuencia.c	6;"	l	line:6
+paq_escritura	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xm_Esperar_secuencia.c	5;"	l	line:5
+paq_escritura	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xm_Recibir_dato.c	6;"	l	line:6
+paq_lectura	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Ds_Conversion.c	7;"	l	line:7
+paq_lectura	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Ds_funcion.c	20;"	l	line:20
+paquete_escritura	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xmodem.h	63;"	m	line:63	struct:Xmodem_Control
+paquete_lectura	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xmodem.h	64;"	m	line:64	struct:Xmodem_Control
+periodo	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Display.h	25;"	m	line:25	struct:Ds_Control
+periodo	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Multiplexacion.h	21;"	m	line:21	struct:Mux_Control
+periodo	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\tiempo.h	24;"	m	line:24
+periodo_intermitente	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Multiplexacion.h	22;"	m	line:22	struct:Mux_Control
+pow	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Ds_Conversion.c	14;"	l	line:14
+pp	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\tiempo.c	14;"	l	line:14
+pp	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\tiempo.c	43;"	l	line:43
+pp	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\tiempo.c	78;"	l	line:78
+pp	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\tiempo.h	39;"	m	line:39
+r_atencion	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\tiempo.h	43;"	m	line:43
+rta	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Ds_Conversion.c	19;"	l	line:19
+secuencia	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Display.h	29;"	m	line:29	struct:Ds_Control
+secuencia_paquete	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xmodem.h	61;"	m	line:61	struct:Xmodem_Control
+selector_uart	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\UART.h	27;"	m	line:27
+t_control	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\main.c	23;"	v	line:23
+t_periodico	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\main.c	96;"	v	line:96
+t_timeout	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\main.c	97;"	v	line:97
+tabla	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Multiplexacion.h	15;"	m	line:15	struct:Mux_Control
+tabla	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\main.c	147;"	l	line:147
+timeout_1_min	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xmodem.h	69;"	m	line:69	struct:Xmodem_Control
+timeout_1_seg	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xmodem.h	70;"	m	line:70	struct:Xmodem_Control
+tipo	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Xmodem.h	51;"	m	line:51	struct:Xmodem_Paquete
+tp	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\tiempo.c	15;"	l	line:15
+tp	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\tiempo.c	44;"	l	line:44
+tp	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\tiempo.h	41;"	m	line:41
+vector_paquetes	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\main.c	101;"	v	line:101
+velocidad	C:\Documents and Settings\Profes18\Mis documentos\My Dropbox\Alejandro_Flor_Miguel\Practica_3\Display.h	21;"	m	line:21	struct:Ds_Control
